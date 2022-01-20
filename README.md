@@ -1,6 +1,6 @@
-## Four basic ruby projects :
+## Four basic ruby projects
 
-Four projects proposed in *The Odin Project* curriculum.
+*Four projects proposed by* **[The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming#basic-ruby-projects)**.
 
 <ol> <h3><li> Caesar's Cipher :</h3>
 Where  I made good use of the <b><i>.ord</i></b> and <i>.<b>chr</b></i> methods and learned that <b>-1 % 26 = 25</b>, which meant my function also worked with a negative shift with no particular correction.
