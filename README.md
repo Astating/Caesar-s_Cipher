@@ -20,7 +20,11 @@ substrings("Howdy partner, sit down! How's it going?", wordArray)
 ```
 
 ### <li> Stock Picker :
-*SOON*
+Long time no code... and that shows. It was easy to pass the criteria, but I feel my solution is awfully clunky and verbose (loop in a loop, condition statement in a condition statement).
+```ruby
+stock_picker([17,3,6,9,15,8,6,1,10,0])
+#=> [1, 4]
+```
 
 ### <li> Bubble Sort :
 *SOON*
