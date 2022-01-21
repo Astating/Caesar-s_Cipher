@@ -27,10 +27,14 @@ stock_picker([17,3,6,9,15,8,6,1,10,0])
 ```
 
 ### <li> Bubble Sort :
-*SOON*
+Implementing Wikipedia's pseudocode for Bubble Sort in Ruby. I like `arr[a], arr[b] = arr[b], arr[a]` for swapping.
 
+```ruby
+p bubble_sort([4,3,78,2,0,2])
+#=> [0,2,2,3,4,78]
+```
 
-
+Done ! It felt easy. Though it would be nice to have a perfect solution to compare those to. It works but it's probably far from optimal.
 
 
 
